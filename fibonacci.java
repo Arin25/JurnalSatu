@@ -24,8 +24,7 @@ public class fibonacci
   while(e <=d)
   {
    System.out.print(a +" ");
-   a = a+b;
-   b = a-b;
+   while a = a+b;    b = a-b;
    e++;
   }
  }
